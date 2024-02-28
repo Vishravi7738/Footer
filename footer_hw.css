@@ -1,0 +1,37 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+footer{
+    background-color: #312d2a;
+    padding-bottom: 10px;
+}
+div{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    padding: 0px 10px;
+    margin: 0;
+}
+h3{
+    color: #a98c7d;
+}
+li{
+    display: flex;
+    padding: 5px;
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    display: block;
+}
+li:hover a{
+    background-color: rgb(218, 230, 241);
+    color: black;
+    transition: 0.5s;
+}
